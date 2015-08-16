@@ -1,5 +1,5 @@
 *
-!/.gitattributes
+!/.gitattributes_global
 !/.gitconfig
 !/.gitignore_global
 !/.gitignore.d
