@@ -1,6 +1,8 @@
 *
+!/.config
+!/.config/git
+!/.config/git/ignore
 !/.gitattributes_global
 !/.gitconfig
 !/.gitignore.d
 !/.gitignore.d/git
-!/.gitignore_global
